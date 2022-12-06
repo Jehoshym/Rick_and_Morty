@@ -1,0 +1,64 @@
+@font-face {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Card {
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 5px #ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-color: black;
+    width: 14em;
+    height: 16em;
+    background-color: aqua;
+    max-width: 95%;
+    margin: 15px;
+
+}
+
+.foto {
+    width: 13em;
+    height: 10em;
+    object-fit: cover;
+    border: solid 2px #ffffff;
+    border-radius: 15px;
+    
+}
+
+.name {
+    display: flex;
+    border-radius: 5px;
+    justify-content: left;
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+    font-size: 15px;
+    background-color: darkslategrey;
+
+}
+
+.specie {
+    border-radius: 5px;
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+    font-size: 12px;
+
+}
+
+.gender {
+    border-radius: 5px;
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+    font-size: 12px;
+
+}
+
+.closeButton {
+    width: 20px;
+    height: 20px;
+    background-color: wheat;
+    border: 0px;
+    
+}
+
+
+

@@ -1,0 +1,9 @@
+.Cards {
+    border: solid 5px red;
+    margin: 25px 25px 25px 25px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
